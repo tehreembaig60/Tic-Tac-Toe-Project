@@ -1,0 +1,46 @@
+Game Log
+Players:
+- Tehreem (X)
+- Ayesha (O)
+
+Move 1: Tehreem -> Position 1
+Board After Move:
+X | 2 | 3
+-----------
+4 | 5 | 6
+-----------
+7 | 8 | 9
+
+Move 2: Ayesha -> Position 2
+Board After Move:
+X | O | 3
+-----------
+4 | 5 | 6
+-----------
+7 | 8 | 9
+
+Move 3: Tehreem -> Position 5
+Board After Move:
+X | O | 3
+-----------
+4 | X | 6
+-----------
+7 | 8 | 9
+
+Move 4: Ayesha -> Position 4
+Board After Move:
+X | O | 3
+-----------
+O | X | 6
+-----------
+7 | 8 | 9
+
+Move 5: Tehreem -> Position 9
+Board After Move:
+X | O | 3
+-----------
+O | X | 6
+-----------
+7 | 8 | X
+
+Result: Tehreem wins

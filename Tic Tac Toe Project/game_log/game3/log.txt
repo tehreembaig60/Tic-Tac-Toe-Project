@@ -1,0 +1,62 @@
+Game Log
+Players:
+- maryam (X)
+- ali (O)
+
+Move 1: maryam -> Position 1
+Board After Move:
+X | 2 | 3
+-----------
+4 | 5 | 6
+-----------
+7 | 8 | 9
+
+Move 2: ali -> Position 2
+Board After Move:
+X | O | 3
+-----------
+4 | 5 | 6
+-----------
+7 | 8 | 9
+
+Move 3: maryam -> Position 3
+Board After Move:
+X | O | X
+-----------
+4 | 5 | 6
+-----------
+7 | 8 | 9
+
+Move 4: ali -> Position 4
+Board After Move:
+X | O | X
+-----------
+O | 5 | 6
+-----------
+7 | 8 | 9
+
+Move 5: maryam -> Position 5
+Board After Move:
+X | O | X
+-----------
+O | X | 6
+-----------
+7 | 8 | 9
+
+Move 6: ali -> Position 6
+Board After Move:
+X | O | X
+-----------
+O | X | O
+-----------
+7 | 8 | 9
+
+Move 7: maryam -> Position 7
+Board After Move:
+X | O | X
+-----------
+O | X | O
+-----------
+X | 8 | 9
+
+Result: maryam wins

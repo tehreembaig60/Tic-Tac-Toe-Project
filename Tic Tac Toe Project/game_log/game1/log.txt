@@ -1,0 +1,54 @@
+Game Log
+Players:
+- nabeelah Maryam (X)
+- Aqsa riaz (O)
+
+Move 1: nabeelah Maryam -> Position 5
+Board After Move:
+1 | 2 | 3
+-----------
+4 | X | 6
+-----------
+7 | 8 | 9
+
+Move 2: Aqsa riaz -> Position 1
+Board After Move:
+O | 2 | 3
+-----------
+4 | X | 6
+-----------
+7 | 8 | 9
+
+Move 3: nabeelah Maryam -> Position 3
+Board After Move:
+O | 2 | X
+-----------
+4 | X | 6
+-----------
+7 | 8 | 9
+
+Move 4: Aqsa riaz -> Position 7
+Board After Move:
+O | 2 | X
+-----------
+4 | X | 6
+-----------
+O | 8 | 9
+
+Move 5: nabeelah Maryam -> Position 2
+Board After Move:
+O | X | X
+-----------
+4 | X | 6
+-----------
+O | 8 | 9
+
+Move 6: Aqsa riaz -> Position 4
+Board After Move:
+O | X | X
+-----------
+O | X | 6
+-----------
+O | 8 | 9
+
+Result: Aqsa riaz wins
